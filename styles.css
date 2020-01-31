@@ -1,0 +1,33 @@
+#myCanvas {
+	border:10px solid #FFEF83; /*yellow*/
+	background-color: #9EE7FF; /*blue*/
+}
+body {
+	background-color: #FFABCF; /*pink*/
+	background-image: url(back.png);
+}
+
+p {
+	font-size: 27px;
+	font-family: 'Indie Flower', cursive;
+	color: #A790E8; 
+	background-color: #FFEF83;
+}
+
+/**audio buttons style**/
+.button1 {
+  	background-color: #A790E8; 
+	color: white;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px;
+	cursor: pointer;
+}
+
+/*dark mode styling */
+.song {
+	background-color: yellow;
+}
